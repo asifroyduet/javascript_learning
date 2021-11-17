@@ -1,0 +1,23 @@
+for clone:
+1. Login on github account
+2. Go to repository section
+3. Select project
+4. click on code arrow icon. right side corner
+5 copy https clone code like: https://github.com/asifroyduet/javascript_learning.git
+
+
+Now Open gitbash where you want to clone.
+Click right button of mouse on specific folder where want to clone.
+Now opened a CMD screen.
+
+Type here.
+command: git clone https://github.com/asifroyduet/javascript_learning.git
+
+
+
+Ragular command:
+
+git pull - for download updates
+git add .
+git commit -m "initial commit"
+git push - for upload updates
