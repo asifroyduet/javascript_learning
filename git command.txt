@@ -19,5 +19,6 @@ Ragular command:
 
 git pull - for download updates
 git add .
+git status
 git commit -m "initial commit"
 git push - for upload updates
